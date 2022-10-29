@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="164px" viewBox="0 0 164 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>portfolio logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="TriangleBig" fill="#32C5FF" transform="translate(51.000000, 112.000000) rotate(-90.000000) translate(-51.000000, -112.000000) " points="51 63 100 161 2 161"></polygon>
+        <polygon id="TriangleSmall" fill="#FFFFFF" points="131 1 162 63 100 63"></polygon>
+    </g>
+</svg>
